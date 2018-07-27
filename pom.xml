@@ -28,7 +28,7 @@
   <licenses>
     <license>
       <name>MIT License</name>
-      <url>https://raw.githubusercontent.com/rajendarreddyj/development-webservices/master/LICENSE</url>
+      <url>https://raw.githubusercontent.com/rajendarreddyj/development-javaee/master/LICENSE</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -41,17 +41,17 @@
     </developer>
   </developers>
   <scm>
-    <url>https://github.com/rajendarreddyj/development-webservices.git</url>
-    <developerConnection>scm:git:git@github.com:rajendarreddyj/development-webservices.git</developerConnection>
+    <url>https://github.com/rajendarreddyj/development-javaee.git</url>
+    <developerConnection>scm:git:git@github.com:rajendarreddyj/development-javaee.git</developerConnection>
     <tag>HEAD</tag>
-    <connection>scm:git:git://github.com/rajendarreddyj/development-webservices.git</connection>
+    <connection>scm:git:git://github.com/rajendarreddyj/development-javaee.git</connection>
   </scm>
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/rajendarreddyj/development-webservices/issues</url>
+    <url>https://github.com/rajendarreddyj/development-javaee/issues</url>
   </issueManagement>
   <ciManagement>
-    <url>https://travis-ci.org/rajendarreddyj/development-webservices</url>
+    <url>https://travis-ci.org/rajendarreddyj/development-javaee</url>
     <system>Travis</system>
   </ciManagement>  
 </project>
